@@ -1,0 +1,67 @@
+No.,Time,Status,Duration (Seconds),IP Address,Country,Region,City / Town / District,Latitude,Longitude,Q3_Age (years),Q4_Height (Inches),Q5_Country of Citizenship,Q6_Undergraduate Degree,Q7_Expected Graduation date from Mason MS program?,Q9_Commuting time (minutes) from home/work to campus for class?,Q1,Q2,Q8,Q10,Q11
+1,2/19/20 4:11 PM,Completed,666,129.174.114.72,United States,Virginia,Fairfax,-77.3375,38.8357,72,71,USA,Computer Science,2020-05-15,20,1.0,1,2,1,4
+2,3/16/20 1:50 PM,Completed,187,108.51.186.155,United States,Maryland,Gaithersburg,-77.2462,39.1148,32,68,USA,Intelligence Operations,2020-12-21,30,2.0,1,1,2,2
+3,3/16/20 1:52 PM,Completed,134,173.79.52.111,United States,Virginia,Burke,-77.2866,38.7851,23,65,INDIA,Uncertain Specialization,2022-05-30,30,3.0,2,1,3,3
+4,3/16/20 1:52 PM,Completed,179,100.36.166.154,United States,Virginia,Fairfax,-77.2891,38.8209,26,74,INDIA,Computer Science,2020-12-17,10,2.0,1,1,1,4
+5,3/16/20 1:52 PM,Completed,239,148.76.40.99,United States,New Jersey,Manville,-74.577,40.5422,25,65,INDIA,Electronics,2021-12-31,20,3.0,1,1,3,1
+6,3/16/20 1:53 PM,Completed,334,70.106.205.180,United States,Virginia,Ashburn,-77.539,39.018,23,70,INDIA,Computer Science,2021-12-15,10,2.0,1,1,2,3
+7,3/16/20 1:53 PM,Completed,367,71.178.203.203,United States,Virginia,Herndon,-77.3936,38.9266,21,70,INDIA,Uncertain Specialization,2022-05-31,10,1.0,1,3,3,3
+8,3/16/20 1:54 PM,Completed,347,129.174.240.251,United States,Virginia,Fairfax,-77.3375,38.8357,27,66,UKRAINE,Mathematics,2022-12-31,50,2.0,2,1,1,2
+9,3/16/20 2:09 PM,Completed,255,73.216.32.12,United States,Virginia,Stephens City,-78.2276,39.0457,23,66,INDIA,Computer Science,2021-12-12,20,3.0,1,1,3,3
+10,3/16/20 2:15 PM,Completed,143,100.15.252.79,United States,Maryland,Rockville,-77.1835,39.0892,24,64,INDIA,Uncertain Specialization,2021-12-28,30,2.0,2,1,2,3
+11,3/16/20 2:30 PM,Completed,71,209.83.110.250,United States,Kentucky,Lexington,-84.4958,38.1346,23,75,USA,Mathematics,2021-05-15,30,3.0,1,1,1,3
+12,3/16/20 2:18 PM,Completed,283188,108.56.239.182,United States,Virginia,Herndon,-77.3827,38.9841,28,63,INDIA,Uncertain Specialization,2021-12-31,30,2.0,2,2,3,1
+13,3/16/20 2:58 PM,Completed,137,108.31.83.240,United States,Virginia,Fairfax,-77.3766,38.8791,23,69,USA,Computer Science,2020-03-16,30,3.0,1,2,1,4
+14,3/16/20 2:57 PM,Completed,185,172.58.191.117,United States,Maryland,Baltimore,-76.6949,39.282,27,50,SAUDIARABIA,Information Systems,2021-12-17,50,1.0,2,1,3,3
+15,3/16/20 3:03 PM,Completed,126,166.94.14.9,United States,Virginia,Alexandria,-77.1285,38.8115,40,70,USA,Surveying Engineering ,2020-05-15,0,1.0,1,1,2,3
+16,3/16/20 3:04 PM,Completed,169,108.56.200.27,United States,Virginia,Herndon,-77.3827,38.9841,36,72,INDIA,Uncertain Specialization,2021-12-17,30,3.0,1,1,3,3
+17,3/16/20 3:06 PM,Completed,599,98.252.117.84,United States,California,Rancho Cordova,-121.2687,38.6027,23,70,INDIA,Computer Science,2021-05-05,20,1.0,2,1,1,2
+18,3/16/20 3:23 PM,Completed,103,96.255.179.83,United States,Virginia,McLean,-77.2223,38.9499,23,63,USA,Information Systems,2021-12-18,30,2.0,2,1,1,1
+19,3/16/20 3:27 PM,Completed,272,173.73.10.176,United States,Virginia,Fairfax,-77.2891,38.8209,24,69,TAIWAN,Business,2020-05-31,20,1.0,1,1,3,2
+20,3/16/20 3:28 PM,Completed,214,71.178.43.94,United States,Virginia,Reston,-77.3489,38.9311,23,73,USA,Uncertain Specialization,2021-12-15,20,1.0,1,1,2,1
+21,3/16/20 3:40 PM,Completed,223,71.191.89.224,United States,Virginia,Herndon,-77.3936,38.9266,40,65,INDIA,Physics,2021-05-10,40,1.0,2,1,3,1
+22,3/16/20 4:08 PM,Completed,736,100.36.123.14,United States,Virginia,Burke,-77.2866,38.7851,24,67,INDIA,Uncertain Specialization,2021-12-25,20,3.0,1,1,3,2
+23,3/16/20 4:25 PM,Completed,209,72.192.237.59,United States,Virginia,Falls Church,-77.1922,38.864,22,58,INDIA,Electronics and Media,2021-12-15,20,3.0,1,2,3,3
+24,3/16/20 5:08 PM,Incomplete,191,108.31.181.29,United States,Virginia,Fairfax,-77.3375,38.8357,24,53,INDIA,Computer Application,2020-12-15,30,2.0,2,1,1,0
+25,3/16/20 7:29 PM,Completed,347,173.73.54.126,United States,Maryland,Silver Spring,-77.0611,39.0898,28,65,IRAN,Architectural engineering,2021-05-31,40,2.0,2,1,2,3
+26,3/16/20 9:19 PM,Completed,61,108.31.181.29,United States,Virginia,Fairfax,-77.3375,38.8357,24,63,INDIA,Computer Application,2020-12-15,30,2.0,2,1,3,2
+27,3/17/20 12:06 AM,Completed,249003,100.36.185.4,United States,Virginia,Fairfax,-77.2891,38.8209,24,68,TAIWAN,Management Science,2021-12-31,20,3.0,1,1,3,2
+28,3/17/20 12:53 AM,Completed,182,72.83.95.22,United States,Maryland,Hyattsville,-76.9592,38.9672,28,71,TAIWAN,Pathway graduate,2021-05-31,20,3.0,1,2,3,2
+29,3/17/20 4:23 AM,Completed,135,117.249.215.252,India,Kerala,Alappuzha,76.3275,9.4942,28,70,INDIA,Civil engineering,2022-05-31,30,3.0,1,1,2,1
+30,3/17/20 6:01 PM,Completed,332,72.219.192.190,United States,Virginia,Herndon,-77.3936,38.9266,34,72,INDIA,Uncertain Specialization,2022-05-31,30,2.0,1,2,1,2
+31,3/17/20 6:15 PM,Completed,100,72.192.250.178,United States,Virginia,Fairfax,-77.3064,38.8462,44,74,USA,"Math, German",2021-05-19,40,2.0,1,1,3,3
+32,3/18/20 1:59 AM,Completed,115,98.221.181.95,United States,New Jersey,Belle Mead,-74.6547,40.4432,32,72,PAKISTAN,Uncertain Specialization,2021-05-20,10,1.0,1,2,3,1
+33,3/18/20 10:35 AM,Completed,107,108.48.68.24,United States,Virginia,Fairfax,-77.263,38.8605,31,69,USA,AIT - Cyber Security,2022-05-13,20,1.0,1,2,1,2
+34,3/18/20 6:34 PM,Completed,109,73.212.138.192,United States,Maryland,Takoma Park,-77.004,38.9827,31,72,BELGIUM,Business,2021-05-01,40,2.0,1,3,3,1
+35,3/19/20 8:53 PM,Completed,185,98.169.28.158,United States,Virginia,Fairfax,-77.263,38.8605,25,67,INDIA,Electronics,2021-12-15,20,1.0,2,2,3,1
+36,3/19/20 8:53 PM,Completed,185,72.209.237.18,United States,Virginia,Annandale,-77.2121,38.8381,24,68,INDIA,Information Technology ,2021-05-15,20,1.0,1,1,2,4
+37,3/19/20 8:53 PM,Completed,250,108.51.34.143,United States,Virginia,Fairfax,-77.3375,38.8357,27,66,INDIA,Electronics,2021-12-31,20,1.0,1,1,3,2
+38,3/19/20 8:55 PM,Completed,195,173.79.51.78,United States,Virginia,Fairfax,-77.3766,38.8791,21,70,INDIA,Uncertain Specialization,2021-12-18,20,3.0,1,1,2,3
+39,3/19/20 8:56 PM,Completed,213,98.169.30.19,United States,Virginia,Fairfax,-77.263,38.8605,24,64,INDIA,Computer Science,2022-12-31,30,2.0,2,1,3,3
+40,3/19/20 8:57 PM,Completed,211,72.192.237.59,United States,Virginia,Falls Church,-77.1922,38.864,22,76,INDIA,Computer Science,2021-12-15,10,3.0,1,1,1,4
+41,3/19/20 8:55 PM,Completed,369,98.169.30.19,United States,Virginia,Fairfax,-77.263,38.8605,22,55,INDIA,Computer Science,2022-12-27,120,2.0,2,2,1,3
+42,3/19/20 9:08 PM,Completed,117,100.36.136.135,United States,Virginia,Burke,-77.2866,38.7851,24,73,INDIA,Computer Science,2021-05-15,20,1.0,1,1,3,4
+43,3/19/20 9:12 PM,Completed,114,108.31.247.124,United States,Maryland,Waldorf,-76.878,38.6252,35,70,SOUTHKOREA,Applied statistics ,2021-05-14,20,3.0,1,1,3,2
+44,3/19/20 9:01 PM,Completed,850,98.169.30.19,United States,Virginia,Fairfax,-77.263,38.8605,23,62,INDIA,Uncertain Specialization,2021-12-21,120,1.0,2,1,3,3
+45,3/19/20 8:53 PM,Incomplete,357,98.169.30.19,United States,Virginia,Fairfax,-77.263,38.8605,23,65,UNKNOWN,Uncertain Specialization,Unknown,32.61904761904762,1.0,2,0,0,0
+46,3/19/20 9:38 PM,Completed,235,8.25.29.225,United States,Virginia,Herndon,-77.3936,38.9266,27,68,INDIA,Computer Science,2021-05-31,30,3.0,1,1,3,2
+47,3/19/20 9:28 PM,Incomplete,31,100.36.123.14,United States,Virginia,Burke,-77.2866,38.7851,23,65,UNKNOWN,Uncertain Specialization,Unknown,21.818181818181817,3.0,2,0,0,0
+48,3/19/20 10:25 PM,Completed,202,71.120.0.74,United States,Virginia,Herndon,-77.3936,38.9266,21,64,INDIA,Computer Science,2021-05-24,90,1.0,2,1,1,3
+49,3/19/20 10:31 PM,Completed,252,72.83.12.206,United States,Virginia,Reston,-77.3428,38.9599,27,63,USA,Business Administration,2022-05-14,30,2.0,2,1,1,1
+50,3/19/20 11:44 PM,Completed,264,73.83.109.154,United States,Washington,Seattle,-122.301,47.7157,22,65,INDIA,Uncertain Specialization,2022-12-12,20,2.0,2,2,1,2
+51,3/19/20 11:49 PM,Completed,166,172.58.45.183,United States,Washington,Seattle,-122.2919,47.6606,22,66,INDIA,Electronics and Communication,2022-12-15,20,2.0,1,2,3,2
+52,3/20/20 12:01 AM,Completed,274,173.79.51.78,United States,Virginia,Fairfax,-77.3766,38.8791,23,68,INDIA,Mechanical Engineering,2021-05-12,20,3.0,1,1,2,3
+53,3/20/20 12:59 AM,Completed,233,129.174.182.110,United States,Virginia,Fairfax,-77.3375,38.8357,29,67,INDONESIA,Computer Science,2021-05-31,30,3.0,1,1,1,2
+54,3/20/20 9:36 AM,Completed,507,100.15.252.79,United States,Maryland,Rockville,-77.1835,39.0892,25,64,INDIA,Civil Engineering,2022-01-06,20,2.0,2,2,2,2
+55,3/20/20 11:57 AM,Completed,141,71.178.203.203,United States,Virginia,Herndon,-77.3936,38.9266,25,73,INDIA,Uncertain Specialization,2021-12-22,20,1.0,1,3,3,3
+56,3/20/20 3:33 PM,Completed,226,76.106.44.175,United States,Virginia,Woodbridge,-77.3463,38.6419,25,67,USA,Mathematics,2021-08-27,0,3.0,2,1,1,4
+57,3/21/20 1:35 AM,Completed,409,68.50.56.4,United States,Indiana,Columbus,-86.0207,39.1923,22,65,INDIA,Electronics and Communication,2022-05-13,40,2.0,2,1,2,1
+58,3/21/20 12:06 PM,Completed,172,129.174.255.177,United States,Virginia,Fairfax,-77.3375,38.8357,23,65,INDIA,Uncertain Specialization,2021-05-01,20,2.0,1,1,2,5
+59,3/21/20 9:19 PM,Completed,205,71.191.72.223,United States,Virginia,Burke,-77.2866,38.7851,24,62,INDIA,Computer Science,2020-03-21,20,2.0,2,1,2,4
+60,3/22/20 11:55 PM,Completed,113,72.219.244.47,United States,Virginia,Alexandria,-77.1487,38.757,24,72,INDIA,Computer Science,2021-12-16,10,1.0,1,2,3,3
+61,3/23/20 7:25 PM,Completed,128,72.192.237.59,United States,Virginia,Falls Church,-77.1922,38.864,22,59,INDIA,Electronics and Media,2021-12-16,30,3.0,1,2,2,3
+62,3/23/20 7:26 PM,Completed,148,72.192.237.59,United States,Virginia,Falls Church,-77.1922,38.864,22,71,INDIA,Uncertain Specialization,2021-12-15,10,3.0,1,1,3,3
+63,3/25/20 5:47 PM,Completed,182,68.100.28.99,United States,Virginia,Fairfax,-77.263,38.8605,29,75,ERITREA,Biology,2022-05-18,30,2.0,1,2,1,2
+64,3/28/20 8:02 PM,Completed,267,173.79.53.10,United States,Virginia,Fairfax,-77.3375,38.8357,22,64,THAILAND,Industrial Engineering,2021-12-20,10,3.0,1,2,3,3
+65,4/1/20 7:38 PM,Completed,116,108.18.28.220,United States,Virginia,Chantilly,-77.4883,38.9148,32,71,INDIA,Electronics,2021-05-24,90,2.0,1,1,3,1
+66,4/5/20 8:57 AM,Completed,305,108.51.104.176,United States,Virginia,Lorton,-77.206,38.6911,44,77,USA,Political Science,2022-05-10,30,3.0,1,1,1,2
